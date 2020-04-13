@@ -1,6 +1,6 @@
 ---
 layout: post
-title:  "Welcome to Jekyll!"
+title:  "Create Jekyll Site for GitHub Pages"
 date:   2020-04-13 17:36:14 +0530
 categories: jekyll update
 ---
