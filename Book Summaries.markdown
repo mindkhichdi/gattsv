@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Book Summaries
-permalink: /booksummaries/
+title: Book Insights
+permalink: /bookinsights/
 ---
-This is where my Book Summaries goes!
+This is where my Book Insights will appear!

@@ -1,7 +1,7 @@
 ---
 layout: post
-title:  "Blog Post Check"
+title:  "My First Blog"
 date:   2020-04-13 17:36:14 +0530
 categories: jekyll update
 ---
-Checking on the new Blog post
+Hello World!

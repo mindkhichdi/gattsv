@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Interesting links
-permalink: /links/
+title: Bookmarks
+permalink: /bookmarks/
 ---
 This is where my bookmark  goes!
