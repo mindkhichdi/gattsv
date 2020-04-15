@@ -4,4 +4,6 @@ title: About
 permalink: /about/
 ---
 
-About ME!
+I love Puns.
+
+<<In Progress>>
