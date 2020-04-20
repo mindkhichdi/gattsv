@@ -6,7 +6,6 @@ permalink: /bookmarks/
 
 **_Favourite Blogs_**
 
-
 1/ [Ben Thompson](https://stratechery.com)
 
 2/ [Marc Andreessen](https://pmarchive.com)
@@ -19,8 +18,17 @@ permalink: /bookmarks/
 
 6/ [Seth Godin](https://www.sethgodin.com/)
 
+7/ [Randsinrepose](https://randsinrepose.com/)
+
+8/ [AJuniorVC](https://ajuniorvc.com/)
+
 
 **_Tech Blogs_**
+
+1/ [37-software-tools-use-run-ecommerce-business](http://needwant.com/p/37-software-tools-use-run-ecommerce-business/)
+
+**_Design Tools_**
+
 
 
 **_Career Related_**
