@@ -29,6 +29,8 @@ permalink: /bookmarks/
 
 **_Design Tools_**
 
+1/ [Figma](https://www.figma.com/)
+2/ [Framer](https://framer.com/)
 
 
 **_Career Related_**
