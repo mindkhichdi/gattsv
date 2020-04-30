@@ -24,6 +24,9 @@ permalink: /bookmarks/
 
 9/ [visual capitalist](https://www.visualcapitalist.com/)
 
+10/ [Real Life](https://reallifemag.com/)
+
+11/ [KK](https://kk.org/articles)
 
 **_Tech Blogs_**
 
@@ -34,6 +37,10 @@ permalink: /bookmarks/
 1/ [How Wile E Coyote Explains the World](https://theconcourse.deadspin.com/how-wile-e-coyote-explains-the-world-1752248034)
 
 2/ [Outsmarted](https://thebaffler.com/salvos/outsmarted-perlstein)
+
+3/ [“Every day you come to realise that society isn’t sane”](https://rahulabhatia.wordpress.com/2020/04/30/every-day-you-come-to-realise-that-society-isnt-sane-an-interview-with-irrfan-from-2006/)
+
+4/ [The Good-Enough Life](https://www.nytimes.com/2019/02/20/opinion/the-good-enough-life-philosophy.html)
 
 
 **_Career Related_**
@@ -50,6 +57,7 @@ permalink: /bookmarks/
 3/[Habits Mental Models](https://deltahabits.substack.com/p/habits-mental-models)
 
 4/ [Autocracy: Rules for Survival](https://www.nybooks.com/daily/2016/11/10/trump-election-autocracy-rules-for-survival/)
+
 
 **_Sports_**
 
@@ -74,7 +82,7 @@ permalink: /bookmarks/
 
 1/ [Your Real Biological Clock Is You’re Going to Die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 
-**_Design Tools_**
+**_Design_**
 
 1/ [Figma](https://www.figma.com/)
 2/ [Framer](https://framer.com/)
