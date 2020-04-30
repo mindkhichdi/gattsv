@@ -5,5 +5,3 @@ permalink: /about/
 ---
 
 I love Puns.
-
-<<In Progress>>
