@@ -28,9 +28,11 @@ permalink: /bookmarks/
 
 11/ [KK](https://kk.org/articles)
 
+
 **_Tech Blogs_**
 
 1/ [37-software-tools-use-run-ecommerce-business](http://needwant.com/p/37-software-tools-use-run-ecommerce-business/)
+
 
 **General Life_**
 
@@ -65,9 +67,11 @@ permalink: /bookmarks/
 
 2/[Playing Doc’s Games—I](https://www.newyorker.com/magazine/1992/08/24/playing-docs-games-part-one)
 
+
 **_Travel_**
 
 1/ [Why We Travel](https://picoiyerjourneys.com/2000/03/18/why-we-travel/)
+
 
 **_Economics_ and _Business_**
 
@@ -82,7 +86,7 @@ permalink: /bookmarks/
 
 1/ [Your Real Biological Clock Is You’re Going to Die](https://hmmdaily.com/2018/10/18/your-real-biological-clock-is-youre-going-to-die/)
 
-**_Design_**
 
-1/ [Figma](https://www.figma.com/)
-2/ [Framer](https://framer.com/)
+**_Product and Design_**
+
+1/ [Product Management Skills at Different Levels](https://airtable.com/tbl5HGzQiw1muNjVb/viwkII9OZ96JgksFX?blocks=hide)
